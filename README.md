@@ -1,1 +1,1 @@
-# Repositorio de estudo do curso AWS DEVELOPER da escpla da nuvem.
+# Repositorio de estudo do curso AWS DEVELOPER da escola da nuvem.
