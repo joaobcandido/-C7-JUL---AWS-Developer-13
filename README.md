@@ -1,1 +1,1 @@
-# -C7-JUL---AWS-Developer-13
+# Repositorio de estudo do curso AWS DEVELOPER da escpla da nuvem.
